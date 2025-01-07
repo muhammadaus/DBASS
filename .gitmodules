@@ -1,0 +1,6 @@
+[submodule "content-factory-contracts/lib/forge-std"]
+	path = content-factory-contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "content-factory-contracts/lib/openzeppelin-contracts"]
+	path = content-factory-contracts/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
